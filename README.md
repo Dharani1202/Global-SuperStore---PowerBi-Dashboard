@@ -9,36 +9,35 @@ Explore the Dashboard:
 
 ## Tools Used
 
-    Microsoft Excel – for data cleaning, pivot tables, and KPI creation
+- Microsoft Excel – for data cleaning, pivot tables, and KPI creation
     
-    Power BI – for dashboard design, data modeling, and DAX calculations
+- Power BI – for dashboard design, data modeling, and DAX calculations
 
 ## Dataset
 
-    Dataset Name: Global Superstore Data
-    The dataset contains details like order date, sales, profit, category, sub-category, segment, and shipping mode.
+- Dataset Name: Global Superstore Data
+- The dataset contains details like order date, sales, profit, category, sub-category, segment, and shipping mode.
 
 ## Excel Work
 
 ### Created six Pivot Tables:
 
-    Month-wise Sales
+- Month-wise Sales
     
-    Year-wise Sales
+- Year-wise Sales
     
-    Shipping Mode Sales
+- Shipping Mode Sales
     
-    Date-wise Sales
+- Date-wise Sales
     
-    Category-wise Sales
+- Category-wise Sales
     
-    Subcategory-wise Sales
+- Subcategory-wise Sales
 
 ### Created six Pivot Charts based on the tables.
+- Calculated KPIs: Total Revenue, Total Sales, Profit, Total Orders, Quantity, Maximum Yearly Sales, and Average Monthly Sales.
     
-    Calculated KPIs: Total Revenue, Total Sales, Profit, Total Orders, Quantity, Maximum Yearly Sales, and Average Monthly Sales.
-    
-    Inserted filters for: Year, Region, Category, Month, and Ship Mode.
+- Inserted filters for: Year, Region, Category, Month, and Ship Mode.
 
 # Power BI Work
 
@@ -46,43 +45,43 @@ Designed Global Superstore Dashboard with KPIs and visuals.
 
 ## KPIs Included:
 
-    Total Revenue
+- Total Revenue
 
-    Total Profit
+- Total Profit
 
-    Average Order Value
+- Average Order Value
 
-    Total Orders
+- Total Orders
 
-    Total Units Sold
+- Total Units Sold
 
 ## Charts Used:
 
-    Bar Chart: Total Sales by Category (Technology highest revenue)
+- Bar Chart: Total Sales by Category (Technology highest revenue)
 
-    Donut Chart: Total Sales by Segment (Consumer highest, Home Office lowest)
+- Donut Chart: Total Sales by Segment (Consumer highest, Home Office lowest)
 
-    Line Chart: Yearly and Monthly Sales Trends (2017 highest revenue year)
+- Line Chart: Yearly and Monthly Sales Trends (2017 highest revenue year)
 
-    Table Chart: Top 10 Products by Sales
+- Table Chart: Top 10 Products by Sales
 
-    Column Chart: Quarter-wise & Season-wise Peak Sales
+- Column Chart: Quarter-wise & Season-wise Peak Sales
   
-    Bar/Column Charts: Top 10 Customers and Top 5 Products by Sales
+- Bar/Column Charts: Top 10 Customers and Top 5 Products by Sales
 
-    Added 4 Slicers for dynamic filtering (Year, Category, Region, Month).
+- Added 4 Slicers for dynamic filtering (Year, Category, Region, Month).
 
-    Created Date Table using DAX with Year, Quarter, Month, Day, Season, and Month-Year columns.
+- Created Date Table using DAX with Year, Quarter, Month, Day, Season, and Month-Year columns.
 
 # Key Insights
 
-    Technology category generated the highest revenue.
+- Technology category generated the highest revenue.
 
-    Consumer segment had the highest sales, while Home Office was lowest.
+- Consumer segment had the highest sales, while Home Office was lowest.
 
-    2017 was the peak year for revenue.
+- 2017 was the peak year for revenue.
     
-    Clear monthly and yearly sales trends were identified.
+- Clear monthly and yearly sales trends were identified.
 
 # Conclusion
 
