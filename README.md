@@ -4,7 +4,8 @@
   The Global Superstore Dashboard is an interactive data visualization project created using Excel and Power BI.
   This dashboard helps to analyze sales performance, profit, and order trends across multiple categories, segments, and years.
 
-Explore the Dashboard: Click here to view the dashboard
+Explore the Dashboard: 
+- <a href="https://github.com/Dharani1202/Global-SuperStore---PowerBi-Dashboard/blob/main/Global_Superstore_Dashboard.png">View The Dashboard</a>
 
 ## Tools Used
 
