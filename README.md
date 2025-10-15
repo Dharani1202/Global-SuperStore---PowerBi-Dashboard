@@ -1,4 +1,4 @@
-# Global-Store_PowerBi-Dashboard
+# Global Super Store Sales - PowerBi Dashboard
     Global Superstore Dashboard built using Excel & Power BI. Features Pivot Tables, KPIs, and visuals showing monthly &amp; yearly sales trends. Technology tops in revenue, Consumer leads in sales, and 2017 marks the peak year. Includes category, segment &amp; regional analysis.
 # Project Overview
   The Global Superstore Dashboard is an interactive data visualization project created using Excel and Power BI.
